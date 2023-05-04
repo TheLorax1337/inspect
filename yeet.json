@@ -1,0 +1,96 @@
+{
+  "appid": 730,
+  "classid": "5305604487",
+  "instanceid": "480085569",
+  "currency": 0,
+  "background_color": "",
+  "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLbUkmJE5YtyiL7DpNmh3gCxqEBram-lIdOdegBvYlzQ-gO8le_ugZK1uMjByHtrpGB8soZe47_O",
+  "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5F09OgkZKflvzxDLbUkmJE5fp9i_vG8ML2igO2-kZoZW2md4WSewBoZA3Y8lfvwurvhcS-6JzIzXZqvnUq5HbVgVXp1v0z-Lw1",
+  "descriptions": [
+    {
+      "type": "html",
+      "value": "Exterior: Field-Tested"
+    },
+    {
+      "type": "html",
+      "value": " "
+    },
+    {
+      "type": "html",
+      "value": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. Sports cars race down the side of this custom painted, neon-colored sniper rifle.\n\n<i>Drifting is a right not a privilege</i>"
+    },
+    {
+      "type": "html",
+      "value": " "
+    },
+    {
+      "type": "html",
+      "value": "The Operation Riptide Collection",
+      "color": "9da1a9"
+    },
+    {
+      "type": "html",
+      "value": " "
+    }
+  ],
+  "tradable": 0,
+  "actions": [
+    {
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2794066305365334764",
+      "name": "Inspect in Game..."
+    }
+  ],
+  "name": "SSG 08 | Turbo Peek",
+  "name_color": "D2D2D2",
+  "type": "Classified Sniper Rifle",
+  "market_name": "SSG 08 | Turbo Peek (Field-Tested)",
+  "market_hash_name": "SSG 08 | Turbo Peek (Field-Tested)",
+  "market_actions": [
+    {
+      "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2794066305365334764",
+      "name": "Inspect in Game..."
+    }
+  ],
+  "commodity": 0,
+  "market_tradable_restriction": 7,
+  "marketable": 1,
+  "tags": [
+    {
+      "category": "Type",
+      "internal_name": "CSGO_Type_SniperRifle",
+      "localized_category_name": "Type",
+      "localized_tag_name": "Sniper Rifle"
+    },
+    {
+      "category": "Weapon",
+      "internal_name": "weapon_ssg08",
+      "localized_category_name": "Weapon",
+      "localized_tag_name": "SSG 08"
+    },
+    {
+      "category": "ItemSet",
+      "internal_name": "set_community_29",
+      "localized_category_name": "Collection",
+      "localized_tag_name": "The Operation Riptide Collection"
+    },
+    {
+      "category": "Quality",
+      "internal_name": "normal",
+      "localized_category_name": "Category",
+      "localized_tag_name": "Normal"
+    },
+    {
+      "category": "Rarity",
+      "internal_name": "Rarity_Legendary_Weapon",
+      "localized_category_name": "Quality",
+      "localized_tag_name": "Classified",
+      "color": "d32ce6"
+    },
+    {
+      "category": "Exterior",
+      "internal_name": "WearCategory2",
+      "localized_category_name": "Exterior",
+      "localized_tag_name": "Field-Tested"
+    }
+  ]
+}
